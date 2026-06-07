@@ -1,7 +1,5 @@
 # Bridging-React-with-Non-React-Libraries
 
-# React Chart.js Poll Dashboard
-
 ## Project Overview
 
 This project demonstrates how to integrate a non-React JavaScript library (Chart.js) into a React application using React Hooks.
